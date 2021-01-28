@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"data": [{
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/468.png",
+		"firstName": "Fname",
+		"lastName": "Lname0",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}, {
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/509.png",
+		"firstName": "Fname",
+		"lastName": "Lname1",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}, {
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/318.png",
+		"firstName": "Fname",
+		"lastName": "Lname2",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}, {
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/395.png",
+		"firstName": "Fname",
+		"lastName": "Lname3",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}, {
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/310.png",
+		"firstName": "Fname",
+		"lastName": "Lname4",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}, {
+		"avatarUrl": "https://images.vyaguta.lftechnology.com/employee/48/539.png",
+		"firstName": "Fname",
+		"lastName": "Lname5",
+		"email": "abci@lf.com",
+		"mobilePhone": "9898989898"
+	}]
 }
